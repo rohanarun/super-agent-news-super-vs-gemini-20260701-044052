@@ -1,0 +1,30 @@
+{
+  "citations": [
+    "[pcmag.com](https://ca.pcmag.com/ai/16273/gemini-spark-is-the-best-ai-agent-ive-testedbut-it-has-a-big-problem)",
+    "[theverge.com](https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on)",
+    "[blog.google](https://gemini.google/overview/agent/spark/)",
+    "[9to5google.com](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VWE5XQTlLUDc1V2RkVm1RZjhQOGRaekhfbzBVYlZDWVdISTJ2bldiZGgwRENKb09ieEJFWURrQmh0M0ZZeHdGUXhnRGdrZmZwc3BKOEctNzRVeVdEMXlLNGl5Q3ljQQ)",
+    "[forbes.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxOUUNNWkxKU1dzNjA4bEU3NDFudldnNWJrdHZ2cEtmOTNzMjl6Rm1xZnJvbmp1clNPWnRPZlNST1BRRmpBMndHMnhVekc2QzBzRVVMZDlWQlBPbnloNEoyQ09NOFBLUDM5RUdIWE5SRnhyc0FnZVBlWWpkQVNpUmc1NFhYMUZYQWRXLXNlMzFXSQ)",
+    "[searchenginejournal.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxPRVJoRjFoQjUzdGpSQlNUNUZmQTBUUzBnRkFqZUl2N0N6SkxaS3kzTmR1cUZDZFJ3cEsxcjFYQXVWYmh2RU56UEhlLVpZS2JQcE5WRmg1LXRGRUJUVmxMeWdnTlRkQjNNNzVCTThETk8zRW5qMnRlUnZGRjZWUFRPeVA3RVVtcDQtTklUWTk4T2NLOE1VWG9YVjdrM1BjMW1kd1JQZndaQy1PTURSUUg1eHcwV1NlRFBJOVR3SkpkeTZYX3lMT2c)",
+    "[ndtvprofit.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbjU5NV8wbzNQVFZGQTZFNGFZd3F0Y3Y2QllNZUFIQVd4WHIyMTlLa0dFaXhTcHpFcFk5OEJfcWFqMnpNZUR1QmZkcE1jc3M3ZWNKaE51S0VsOGE2THJXUXhhWXUtdFFnMW9jd2dXQVpINUFldjkzLXZEZ1NTVmdraUZXZi1fSXlkNk9LdTNia2F2MDVJc0t2ekNBVVdZY2gyenZmR1VEdjlLVlNhbGNMd0NpYTVhRGFnSERYVVF1Xy1iYmvSAcsBQVVfeXFMT2hCMTdSSXE4dF9LNnMtQXVfX0E2RTBadVd3dVZxeE5mME45dEp6S00wSVlEcnctUVBOWWNTS2JqbnFQY2hKNmR2RDhBVlJCMDhoQURJY2JFdmVsOHJxQWJLUlJuUDJ2U2M1LTdnZU5IV3JhTVFtcWM0ell1Q3RaeVhsa2psTXZrU2hjbE5UOFZzTzZvVEVUV2Fyc1F4eVFmM3hKWklwNS1QcWRsWF9nOGlrc0J4cGFDT3ZTcHZsWWFyR2gxcHpTXzNIblk)"
+  ],
+  "design_plan": "rng_seed=42; hero_math=max_width_1120_two_line; AIDA=pass; bento_density=grid-auto-flow:dense; label_sweep=all_competitors_mentioned; button_contrast=pass",
+  "generated_at": "2026-07-01T04:40:59.227418+00:00",
+  "headline": "Super vs Gemini \u2014 personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with Gemini",
+    "competitor": "Gemini",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Gemini. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Gemini AI agent",
+      "Gemini AI assistant",
+      "Gemini automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-gemini",
+    "title": "Super vs Gemini"
+  },
+  "summary": "A fair comparison of Super and Google Gemini for people choosing a personal AI agent. Gemini is pushing hard into computer use with Gemini Spark and Gemini 3.5 Flash, especially for users deep in Google\u2019s ecosystem. Super is built specifically for repeated computer-use workflows, with a reusable computer-use cache that makes ongoing automation sharper and cheaper over time."
+}
